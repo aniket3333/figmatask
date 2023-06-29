@@ -1,0 +1,92 @@
+.frame {
+    align-items: center;
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #e1a5ff66;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    padding: 36px 48px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-3 {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .lolla {
+    height: 70px;
+    min-width: 70px;
+    object-fit: cover;
+    position: relative;
+  }
+  
+  .frame .div-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .lolla-smith {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: 88px;
+  }
+  
+  .frame .microsoft {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: 65px;
+  }
+  
+  .frame .img {
+    height: 20px;
+    min-width: 132px;
+    position: relative;
+  }
+  
+  .frame .p {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 369px;
+  }
+  

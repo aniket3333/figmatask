@@ -1,0 +1,768 @@
+.dashboard {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .dashboard .div-5 {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 3007px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .dashboard .overlap {
+    height: 2710px;
+    left: -770px;
+    position: absolute;
+    top: -751px;
+    width: 2574px;
+  }
+  
+  .dashboard .group {
+    height: 2065px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2574px;
+  }
+  
+  .dashboard .overlap-group {
+    height: 1407px;
+    left: 330px;
+    position: relative;
+    top: 326px;
+    width: 1880px;
+  }
+  
+  .dashboard .polygon {
+    height: 982px;
+    left: 440px;
+    position: absolute;
+    top: 425px;
+    width: 1207px;
+  }
+  
+  .dashboard .polygon-2 {
+    height: 495px;
+    left: 1110px;
+    position: absolute;
+    top: 425px;
+    width: 770px;
+  }
+  
+  .dashboard .ellipse {
+    background-color: #7a3199;
+    border-radius: 465.5px/425px;
+    height: 850px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 931px;
+  }
+  
+  .dashboard .pngwing {
+    height: 441px;
+    left: 1744px;
+    object-fit: cover;
+    position: absolute;
+    top: 1298px;
+    width: 466px;
+  }
+  
+  .dashboard .header {
+    background-color: transparent;
+    height: 91px;
+    left: 770px;
+    position: absolute;
+    top: 751px;
+    width: 1440px;
+  }
+  
+  .dashboard .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 175px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+  }
+  
+  .dashboard .frame-5 {
+    align-items: flex-start;
+    display: flex;
+    gap: 107px;
+    left: 898px;
+    position: absolute;
+    top: 36px;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .dashboard .frame-6 {
+    height: 525px;
+    left: 770px;
+    position: absolute;
+    top: 1494px;
+    width: 1439px;
+  }
+  
+  .dashboard .course-2 {
+    height: 397px;
+    left: 176px;
+    position: absolute;
+    top: 49px;
+    width: 552px;
+  }
+  
+  .dashboard .design-component-instance-node {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .dashboard .course-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 214px !important;
+  }
+  
+  .dashboard .course-3 {
+    left: 284px !important;
+    position: absolute !important;
+    top: 23px !important;
+  }
+  
+  .dashboard .course-4 {
+    left: 284px !important;
+    position: absolute !important;
+    top: 237px !important;
+  }
+  
+  .dashboard .frame-7 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    left: 848px;
+    position: absolute;
+    top: 126px;
+    width: fit-content;
+  }
+  
+  .dashboard .title {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .lorem-ipsum-is-2 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 367px;
+  }
+  
+  .dashboard .button {
+    background: linear-gradient(180deg, rgb(71, 118, 230) 0%, rgb(142, 84, 233) 100%);
+    border-radius: 10px;
+    height: 60px;
+    min-width: 237px;
+    position: relative;
+  }
+  
+  .dashboard .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+  }
+  
+  .dashboard .overlap-wrapper {
+    height: 652px;
+    left: 770px;
+    position: absolute;
+    top: 842px;
+    width: 1439px;
+  }
+  
+  .dashboard .overlap-2 {
+    height: 462px;
+    left: 175px;
+    position: relative;
+    top: 94px;
+    width: 1240px;
+  }
+  
+  .dashboard .content {
+    height: 371px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 580px;
+  }
+  
+  .dashboard .title-2 {
+    height: 214px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 584px;
+  }
+  
+  .dashboard .lorem-ipsum-is-3 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 152px;
+    width: 433px;
+  }
+  
+  .dashboard .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 580px;
+  }
+  
+  .dashboard .div-wrapper {
+    background: linear-gradient(180deg, rgb(71, 118, 230) 0%, rgb(142, 84, 233) 100%);
+    border-radius: 10px;
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 296px;
+    width: 237px;
+  }
+  
+  .dashboard .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 18px;
+  }
+  
+  .dashboard .group-2 {
+    height: 370px;
+    left: 599px;
+    position: absolute;
+    top: 60px;
+    width: 550px;
+  }
+  
+  .dashboard .everyone-is-smiling {
+    height: 281px;
+    left: 598px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 491px;
+  }
+  
+  .dashboard .group-business {
+    height: 281px;
+    left: 545px;
+    object-fit: cover;
+    position: absolute;
+    top: 90px;
+    width: 491px;
+  }
+  
+  .dashboard .streamline-computer {
+    height: 154px;
+    left: 1023px;
+    position: absolute;
+    top: 308px;
+    width: 155px;
+  }
+  
+  .dashboard .solar-podcast {
+    height: 159px;
+    left: 1081px;
+    position: absolute;
+    top: 123px;
+    width: 159px;
+  }
+  
+  .dashboard .overlap-group-wrapper {
+    height: 691px;
+    left: 772px;
+    overflow: hidden;
+    position: absolute;
+    top: 2019px;
+    width: 1440px;
+  }
+  
+  .dashboard .overlap-3 {
+    height: 653px;
+    left: 1px;
+    position: relative;
+    width: 1479px;
+  }
+  
+  .dashboard .group-3 {
+    height: 568px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1479px;
+  }
+  
+  .dashboard .overlap-group-2 {
+    height: 568px;
+    position: relative;
+    width: 1477px;
+  }
+  
+  .dashboard .line {
+    height: 531px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1437px;
+  }
+  
+  .dashboard .line-2 {
+    height: 531px;
+    left: 1px;
+    position: absolute;
+    top: 18px;
+    width: 1436px;
+  }
+  
+  .dashboard .line-3 {
+    height: 531px;
+    left: 2px;
+    position: absolute;
+    top: 37px;
+    width: 1435px;
+  }
+  
+  .dashboard .h-1 {
+    color: #eeeeee;
+    font-family: "Poppins", Helvetica;
+    font-size: 150px;
+    font-weight: 700;
+    left: 836px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 119px;
+    white-space: nowrap;
+    width: 641px;
+  }
+  
+  .dashboard .group-4 {
+    height: 577px;
+    left: 174px;
+    position: absolute;
+    top: 76px;
+    width: 1090px;
+  }
+  
+  .dashboard .frame-8 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    left: 317px;
+    position: absolute;
+    top: 0;
+    width: fit-content;
+  }
+  
+  .dashboard .div-6 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .lorem-ipsum-is-4 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: 455px;
+  }
+  
+  .dashboard .radio {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px #9a949440;
+    display: flex;
+    gap: 10px;
+    height: 37px;
+    padding: 6px 16px 6px 6px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .frame-9 {
+    align-items: center;
+    background-color: #e1a5ff66;
+    border-radius: 10px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: -1px;
+    margin-top: -1px;
+    padding: 3px 9px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-9 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-10 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .dashboard .group-5 {
+    height: 357px;
+    left: 0;
+    position: absolute;
+    top: 220px;
+    width: 1090px;
+  }
+  
+  .dashboard .plan-instance {
+    left: 787px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .dashboard .plan-2 {
+    color: #ffffff !important;
+  }
+  
+  .dashboard .plan-3 {
+    background-color: #ffffff !important;
+    border: unset !important;
+    border-color: unset !important;
+  }
+  
+  .dashboard .plan-4 {
+    background-color: #7a3199 !important;
+    border: unset !important;
+    border-color: unset !important;
+    left: 393px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .dashboard .frame-10 {
+    height: 512px;
+    left: -1px;
+    position: absolute;
+    top: 1959px;
+    width: 1440px;
+  }
+  
+  .dashboard .frame-11 {
+    height: 15px;
+    left: 630px;
+    position: absolute;
+    top: 467px;
+    width: 171px;
+  }
+  
+  .dashboard .frame-12 {
+    height: 378px;
+    left: 175px;
+    position: absolute;
+    top: 57px;
+    width: 1459px;
+  }
+  
+  .dashboard .frame-13 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-11 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-12 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 399px;
+  }
+  
+  .dashboard .frame-14 {
+    height: 238px;
+    left: 0;
+    position: absolute;
+    top: 140px;
+    width: 1459px;
+  }
+  
+  .dashboard .frame-18 {
+    box-shadow: 0px 16px 40px #9a949440 !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .dashboard .overlap-group-3 {
+    height: 238px;
+    left: 497px;
+    position: absolute;
+    top: 0;
+    width: 962px;
+  }
+  
+  .dashboard .frame-instance {
+    min-width: 130px !important;
+  }
+  
+  .dashboard .frame-18-instance {
+    left: 497px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .dashboard .frame-15 {
+    height: 130px;
+    left: 457px;
+    position: absolute;
+    top: 57px;
+    width: 130px;
+  }
+  
+  .dashboard .frame-16 {
+    height: 493px;
+    left: 0;
+    position: absolute;
+    top: 2514px;
+    width: 1440px;
+  }
+  
+  .dashboard .overlap-4 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/3ac815ab615013592205d4b8886c8269/img/polygon-2.svg);
+    background-size: 100% 100%;
+    height: 486px;
+    position: relative;
+    top: 6px;
+  }
+  
+  .dashboard .frame-17 {
+    align-items: center;
+    border-color: #ffffff;
+    border-top-style: solid;
+    border-top-width: 0.5px;
+    display: flex;
+    gap: 192px;
+    height: 74px;
+    justify-content: center;
+    left: 222px;
+    padding: 20px 0px;
+    position: absolute;
+    top: 412px;
+    width: 995px;
+  }
+  
+  .dashboard .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .frame-19 {
+    align-items: center;
+    display: flex;
+    gap: 64px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .frame-20 {
+    align-items: flex-start;
+    display: flex;
+    gap: 24px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .dashboard .frame-21 {
+    height: 24px;
+    min-width: 144px;
+    position: relative;
+  }
+  
+  .dashboard .frame-22 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    left: 422px;
+    position: absolute;
+    top: 62px;
+    width: fit-content;
+  }
+  
+  .dashboard .lorem-ipsum-is-5 {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(71, 118, 230) 0%, rgb(142, 84, 233) 100%);
+    background-clip: text;
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    text-fill-color: transparent;
+    width: 596px;
+  }
+  
+  .dashboard .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+  }
+  

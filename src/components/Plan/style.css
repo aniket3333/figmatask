@@ -1,0 +1,135 @@
+.plan {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #7a3199;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 35px 27px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .div {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    width: 249px;
+  }
+  
+  .plan .basic-plan {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .plan .text-wrapper {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: -15px;
+    position: relative;
+    width: 264px;
+  }
+  
+  .plan .frame-2 {
+    align-items: center;
+    display: flex;
+    gap: 19px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .element {
+    color: #7a3199;
+    font-family: "Inter", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .month {
+    color: #7a3199;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .frame-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .frame-4 {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .vector {
+    height: 4.75px;
+    min-width: 4.75px;
+    position: relative;
+  }
+  
+  .plan .free-access-to-video {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .plan .start-free-trial-wrapper {
+    border: 0.5px solid;
+    border-color: #7a3199;
+    border-radius: 5px;
+    height: 44px;
+    min-width: 149px;
+    position: relative;
+  }
+  
+  .plan .start-free-trial {
+    color: #7a3199;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+  }
+  

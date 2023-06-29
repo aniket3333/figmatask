@@ -1,0 +1,37 @@
+.course {
+    align-items: flex-start;
+    border: 0.5px solid;
+    border-color: #7a3199;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    overflow: hidden;
+    padding: 30px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .course .interactive-features {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -0.5px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .course .lorem {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 208px;
+  }
+  
